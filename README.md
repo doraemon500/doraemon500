@@ -2,8 +2,8 @@
 
 | **프로젝트명**             | **조직**                           | **링크**                                                    |
 |----------------------------|----------------------------------|-------------------------------------------------------------|
-| 대학생 팀플 모집 웹 서비스 <투게더> | -                |  [GitHub](https://github.com/Kwangwoon-OSS) |
-| 수강신청연습 프로그램       |-                 |  [GitHub](https://github.com/kw-appsw-crsreg) |
+| 대학생 팀플 모집 웹 서비스 <투게더> | -                |  [GitHub](https://github.com/Kwangwoon-OSS/backend) |
+| 수강신청연습 프로그램       |-                 |  [GitHub](https://github.com/kw-appsw-crsreg/server) |
 | 캡스톤 프로젝트            | -               |  [GitHub](https://github.com/nbsp1221/communav) |
 | 기업 해커톤 : Nota AI       | 부스트캠프 AI Tech               |  [GitHub](https://github.com/boostcampaitech7/level4-nlp-finalproject-hackathon-nlp-07-lv3) |
 | 수능형 문제 풀이 모델 생성  | 부스트캠프 AI Tech               | [GitHub](https://github.com/boostcampaitech7/level2-nlp-generationfornlp-nlp-07-lv3) |
