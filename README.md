@@ -8,7 +8,7 @@
 | 기업 해커톤 : Nota AI (오디오 언어모델의 경량 모델링 레서피 탐구)       | 부스트캠프 AI Tech               |  [GitHub](https://github.com/boostcampaitech7/level4-nlp-finalproject-hackathon-nlp-07-lv3) |
 | 수능형 문제 풀이 모델 생성  | 부스트캠프 AI Tech               | [GitHub](https://github.com/boostcampaitech7/level2-nlp-generationfornlp-nlp-07-lv3) |
 | 주제 분류 프로젝트         | 부스트캠프 AI Tech               |  [GitHub](https://github.com/boostcampaitech7/level2-nlp-datacentric-nlp-15) |
-| Open Domain Question Answering | 부스트캠프 AI Tech          |  [GitHub](https://github.com/boostcampaitech7/level2-mrc-nlp-15) |
+|RAG with Open Domain Question Answering | 부스트캠프 AI Tech          |  [GitHub](https://github.com/boostcampaitech7/level2-mrc-nlp-15) |
 | 문장 간 유사도 측정        | 부스트캠프 AI Tech               |  [GitHub](https://github.com/boostcampaitech7/level1-semantictextsimilarity-nlp-15) |
 | Retrieval                 | -                               | [GitHub](https://github.com/doraemon500/Retrieval)|
 <!--
