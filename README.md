@@ -1,3 +1,6 @@
+name: Gyutae Park
+email: kt8199@sogang.ac.kr
+
 ## 📋 Projects 
 
 | **프로젝트명**             | **조직**                           | **링크**                                                    |
