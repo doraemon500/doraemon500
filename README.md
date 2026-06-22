@@ -6,8 +6,8 @@ email: kt8199@sogang.ac.kr
 
 | **프로젝트명**             | **조직**                           | **링크**                                                    |
 |----------------------------|----------------------------------|-------------------------------------------------------------|
-| 대학생 팀플 모집 웹 서비스 <투게더> | -                |  [GitHub](https://github.com/Kwangwoon-OSS/backend) |
-| 수강신청연습 프로그램       |-                 |  [GitHub](https://github.com/kw-appsw-crsreg/server) |
+| 대학생 팀플 모집 웹 서비스 <투게더> | -                |  [GitHub](https://github.com/Kwangwoon-OSS) |
+| 수강신청연습 프로그램       |-                 |  [GitHub](https://github.com/kw-appsw-crsreg) |
 | 캡스톤 프로젝트 (자연어 처리를 통한 커뮤니티 글 카테고리 분류 시스템 개발)           | -               |  [GitHub](https://github.com/nbsp1221/communav) |
 | 기업 해커톤 : Nota AI (오디오 언어모델의 경량 모델링 레서피 탐구)       | 부스트캠프 AI Tech               |  [GitHub](https://github.com/boostcampaitech7/level4-nlp-finalproject-hackathon-nlp-07-lv3) |
 | 수능형 문제 풀이 모델 생성  | 부스트캠프 AI Tech               | [GitHub](https://github.com/boostcampaitech7/level2-nlp-generationfornlp-nlp-07-lv3) |
