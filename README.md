@@ -2,6 +2,7 @@ name: Gyutae Park
 
 email: kt8199@sogang.ac.kr
 
+<!--
 ## 📋 Projects 
 
 | **프로젝트명**             | **조직**                           | **링크**                                                    |
@@ -16,7 +17,6 @@ email: kt8199@sogang.ac.kr
 | 문장 간 유사도 측정        | 부스트캠프 AI Tech               |  [GitHub](https://github.com/boostcampaitech7/level1-semantictextsimilarity-nlp-15) |
 | FAISS 및 ELASTICSEARCH 기반 RAG 시스템 구현                 | -                               | [GitHub](https://github.com/doraemon500/Retrieval)|
 | 2025 THE 'PAY언'한 핀테크 서비스 해커톤 (최우수상), 음성인식을 활용한 소외계층을 위한 복잡한 인터넷 뱅킹을 대신해주는 에이전트 | 광운대학교 인공지능융합대학, 카카오페이 | [GitHub](https://github.com/2025-The-Pay-FinTech-Hackathon/Team01-prototype)|
-<!--
 **doraemon500/doraemon500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
